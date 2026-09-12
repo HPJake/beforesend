@@ -4,6 +4,8 @@
 > Not nicer. **Clearer.**
 
 一个 AI Communication Firewall：在用户发送消息之前，预测对方会怎么理解，并指出"想表达"与"可能被理解"之间的差距（Intent–Perception Gap）。
+在线演示链接： https://beforesend.vercel.app/
+介绍文档：https://my.feishu.cn/wiki/QzXgwg3hMihEzFkTuHoctYVNnBh?from=from_copylink
 
 ## 快速开始
 
